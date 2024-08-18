@@ -3,5 +3,6 @@ class sum {
         System.out.println("Hi");
         lkajlkjlklalfajjajf;lkdjf;
         ljljljljljljjljl;
+        System.out.println("Hello");
     }
 }
