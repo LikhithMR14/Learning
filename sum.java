@@ -1,5 +1,5 @@
 class sum {
     public static void main (String [] args) {
-        kljljljljlj;
+        System.out.println("Hi");
     }
 }
